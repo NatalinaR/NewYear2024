@@ -1,5 +1,5 @@
 var d = new Date();
-var todaysDate = d.getDate();
+// var todaysDate = d.getDate();
 var todaysDate = 2;
 var target = $('#calendar .drop .content .day');
 
